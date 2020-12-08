@@ -26,19 +26,19 @@ Link: https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5
 ⌨️ (54:00) First Component ✔️
 ⌨️ (1:04:13) Text Editor Setup ✔️
 ⌨️ (1:12:29) First Component In Detail ✔️
-⌨️ (1:19:18) JSX Rules
-⌨️ (1:28:55) Nested Components And Tools
-⌨️ (1:34:50) Mini Book Project
-⌨️ (1:42:59) CSS Basics
-⌨️ (1:54:41) JSX Css
-⌨️ (2:01:31) JSX Javascript
-⌨️ (2:09:30) Props
-⌨️ (2:25:41) Props Destructuring
-⌨️ (2:29:44) Props - Children
-⌨️ (2:36:13) Simple List
-⌨️ (2:45:12) Proper List
-⌨️ (2:52:49) Key Prop And Spread Operator
-⌨️ (2:58:52) Event Basics
+⌨️ (1:19:18) JSX Rules ✔️
+⌨️ (1:28:55) Nested Components And Tools ✔️
+⌨️ (1:34:50) Mini Book Project ✔️
+⌨️ (1:42:59) CSS Basics ✔️
+⌨️ (1:54:41) JSX Css ✔️
+⌨️ (2:01:31) JSX Javascript ✔️
+⌨️ (2:09:30) Props ✔️
+⌨️ (2:25:41) Props Destructuring ✔️
+⌨️ (2:29:44) Props - Children ✔️
+⌨️ (2:36:13) Simple List ✔️
+⌨️ (2:45:12) Proper List ✔️
+⌨️ (2:52:49) Key Prop And Spread Operator ✔️
+⌨️ (2:58:52) Event Basics ✔️
 ⌨️ (3:11:12) Import And Export Statements
 ⌨️ (3:23:25) Free Hosting
 ⌨️ (3:28:22) Advanced Intro
