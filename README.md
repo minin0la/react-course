@@ -1,14 +1,15 @@
-Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
+# Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
 
-https://www.youtube.com/watch?v=4UZrsTqkcW4
+Link: https://www.youtube.com/watch?v=4UZrsTqkcW4
 
-Useful Javascript Tutorials
+## Useful Javascript Tutorials
 
-Javascript Nuggets
+### Javascript Nuggets
 
-https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ
+Link: https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ
 
-⭐️ Course Contents ⭐️
+## ⭐️ Course Contents ⭐️
+
 ⌨️ (00:00) Intro ✔️
 ⌨️ (01:09) About React ✔️
 ⌨️ (06:51) Goals ✔️
