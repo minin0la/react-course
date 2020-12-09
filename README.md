@@ -39,16 +39,16 @@ Link: https://www.youtube.com/watch?v=80KX6aD9R7M&list=PLnHJACx3NwAfRUcuKaYhZ6T5
 ⌨️ (2:45:12) Proper List ✔️
 ⌨️ (2:52:49) Key Prop And Spread Operator ✔️
 ⌨️ (2:58:52) Event Basics ✔️
-⌨️ (3:11:12) Import And Export Statements
-⌨️ (3:23:25) Free Hosting
-⌨️ (3:28:22) Advanced Intro
-⌨️ (3:30:42) Get Starter Project
-⌨️ (3:31:35) Install Starter
-⌨️ (3:33:43) Starter Overview
-⌨️ (3:39:00) UseState - Simple Use Case
-⌨️ (3:48:44) UseState - Basics
-⌨️ (4:00:47) General Rules Of Hooks
-⌨️ (4:03:39) UseState - Array Example
+⌨️ (3:11:12) Import And Export Statements ✔️
+⌨️ (3:23:25) Free Hosting ✔️
+⌨️ (3:28:22) Advanced Intro ✔️
+⌨️ (3:30:42) Get Starter Project ✔️
+⌨️ (3:31:35) Install Starter ✔️
+⌨️ (3:33:43) Starter Overview ✔️
+⌨️ (3:39:00) UseState - Simple Use Case ✔️
+⌨️ (3:48:44) UseState - Basics ✔️
+⌨️ (4:00:47) General Rules Of Hooks ✔️
+⌨️ (4:03:39) UseState - Array Example ✔️
 ⌨️ (4:17:27) UseState - Object Example
 ⌨️ (4:23:00) UseState - Multiple State Values
 ⌨️ (4:26:17) Simple Counter
